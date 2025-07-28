@@ -17,13 +17,8 @@ The upcoming trip (closest to the current date) is automatically displayed on th
 
 ## 🎞️ Preview
 
-Here’s a quick look at the Smartbag app in action:
+![alt text](image-4.png)
 
-![Smartbag Preview](./preview.gif)
-
-> 💡 Tip: You can record a short demo using [Peek](https://github.com/phw/peek), [ScreenToGif](https://www.screentogif.com/) or similar tools, then save the file as `preview.gif` in your project folder.
-
----
 
 ## ⚙️ About this Repository
 
